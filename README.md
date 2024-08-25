@@ -1,4 +1,4 @@
-# Git Assignment - \<s-gunde\>
+# Git Assignment - s-gunde
 
 ====================================================
 
@@ -12,13 +12,13 @@ A pull request, often called a PR, is like saying, "Hey, I've made some changes 
 
 **c. Describe the steps to open a pull request?**
 
-- [ ] **Start with a New Branch:** First, create a new branch for your work. It’s like having your own space to make changes without affecting the main code.
+- [ ] **Start with a New Branch:** First, create a new branch from the main branch of your repo and push it to GitHub. This gives you your own space to make changes without affecting the main code.
 - [ ] **Make Your Changes:** Do the work you need to do—write your code, fix bugs, whatever it is.
-- [ ] **Save Your Changes:** Once you’re done, commit your changes so they’re saved in your branch.
-- [ ] **Push to GitHub:** Push your branch to GitHub so others can see your work.
+- [ ] **Save Your Changes:** Once you’re done, stage,commit changes so they’re saved in your branch.
+- [ ] **Push to GitHub:** Push your changes to GitHub so others can see your work.
 - [ ] **Create a Pull Request:** On GitHub, go to the pull requests section, start a new one, and choose the branches you want to merge. Usually, this means merging your new branch into the main one.
 - [ ] **Describe Your Work:** Give some details about what you did so others understand the changes.
-- [ ] **Request Reviews:** If needed, ask teammates to review your work.
+- [ ] **Request Reviews:** Ask teammates to review your work.
 - [ ] **Submit the Pull Request:** Finally, submit it and wait for feedback.
 
 **d. Describe the steps to add a collaborator to a repository (share write permissions)**
