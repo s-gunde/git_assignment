@@ -32,7 +32,10 @@ Git is the tool that helps you track changes in your code. It’s like a superch
 GitHub is a place where you can store your Git projects online, making it easier to share with others, collaborate, and manage everything from issues to pull requests. It’s like a social network for your code.
 
 f. What does git diff do?
+git diff is a command that shows you what’s different between your current code and what’s saved in the last commit or between different versions. It’s super handy for reviewing changes before you finalize them.
 
 g. What is the main branch?
+The main branch is the primary line of development in your project. It’s where the final, polished code lives, and it’s usually the branch that gets deployed to production. Think of it as the “official” version of your code.
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+Nope, As a good practise, it’s better not to push changes directly to the main branch. Instead, create a new branch for your work, then use a pull request to merge it into the main branch once everything’s been reviewed and tested. This way, you keep the main branch stable and free from unexpected bugs.
