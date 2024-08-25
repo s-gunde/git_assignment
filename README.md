@@ -29,7 +29,9 @@ A pull request, often called a PR, is like saying, "Hey, I've made some changes 
 - [ ] **Invite a Collaborator:** Type in the person’s GitHub username or email and send them an invite.
 - [ ] **Set Permissions:** Decide what level of access they should have (like read or write permissions).
       - After the collaborator accepts the invitation, you can set their permission level.
+      
       - Click the **Manage access** button again, then click on the dropdown next to their name.
+      
       - Select **Write** to grant them write permissions, which allows them to:
               - Push commits
               - Manage issues
