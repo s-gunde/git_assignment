@@ -12,22 +12,23 @@ A pull request, often called a PR, is like saying, "Hey, I've made some changes 
 
 **c. Describe the steps to open a pull request?**
 
-**Start with a New Branch:** First, create a new branch for your work. It’s like having your own space to make changes without affecting the main code.
-**Make Your Changes:** Do the work you need to do—write your code, fix bugs, whatever it is.
-**Save Your Changes:** Once you’re done, commit your changes so they’re saved in your branch.
-**Push to GitHub:** Push your branch to GitHub so others can see your work.
-**Create a Pull Request:** On GitHub, go to the pull requests section, start a new one, and choose the branches you want to merge. Usually, this means merging your new branch into the main one.
-**Describe Your Work:** Give some details about what you did so others understand the changes.
-**Request Reviews:** If needed, ask teammates to review your work.
-**Submit the Pull Request:** Finally, submit it and wait for feedback.
+- [ ] **Start with a New Branch:** First, create a new branch for your work. It’s like having your own space to make changes without affecting the main code.
+- [ ] **Make Your Changes:** Do the work you need to do—write your code, fix bugs, whatever it is.
+- [ ] **Save Your Changes:** Once you’re done, commit your changes so they’re saved in your branch.
+- [ ] **Push to GitHub:** Push your branch to GitHub so others can see your work.
+- [ ] **Create a Pull Request:** On GitHub, go to the pull requests section, start a new one, and choose the branches you want to merge. Usually, this means merging your new branch into the main one.
+- [ ] **Describe Your Work:** Give some details about what you did so others understand the changes.
+- [ ] **Request Reviews:** If needed, ask teammates to review your work.
+- [ ] **Submit the Pull Request:** Finally, submit it and wait for feedback.
 
 **d. Describe the steps to add a collaborator to a repository (share write permissions)**
-Go to Your Repo: Open your repository on GitHub.
-Head to Settings: Find the settings tab and click it.
-Manage Access: Look for the section where you can manage access or collaborators.
-Invite a Collaborator: Type in the person’s GitHub username or email and send them an invite.
-Set Permissions: Decide what level of access they should have (like read or write permissions).
-Send the Invite: Once they accept, they’ll have the permissions you granted.
+
+- [ ] **Go to Your Repo:** Open your repository on GitHub.
+- [ ] **Head to Settings:** Find the settings tab and click it.
+- [ ] **Manage Access:** Look for the section where you can manage access or collaborators.
+- [ ] **Invite a Collaborator:** Type in the person’s GitHub username or email and send them an invite.
+- [ ] **Set Permissions:** Decide what level of access they should have (like read or write permissions).
+- [ ] **Send the Invite:** Once they accept, they’ll have the permissions you granted.
 
 **e. What is the difference between git and GitHub?**
 **Git** is the tool that helps you track changes in your code. It’s like a supercharged save system that also keeps track of who made what changes and lets you work on different versions of your project at the same time.
