@@ -2,7 +2,7 @@
 
 ====================================================
 
-**a. What is an issue?** <span style="color: blue;">**a. What is an issue?**</span>
+**a. What is an issue?** 
 
 An issue is basically a way to keep track of things that need to be done in a project. It could be a bug that needs fixing, a feature someone wants to add, or any task that needs attention. On platforms like GitHub, issues help teams stay organized by letting them discuss and prioritize work in one place.
 
