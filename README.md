@@ -28,14 +28,13 @@ A pull request, often called a PR, is like saying, "Hey, I've made some changes 
 - [ ] **Manage Access:** Look for the section where you can manage access or collaborators.
 - [ ] **Invite a Collaborator:** Type in the person’s GitHub username or email and send them an invite.
 - [ ] **Set Permissions:** Decide what level of access they should have (like read or write permissions).
-      - After the collaborator accepts the invitation, you can set their permission level.
-      
-      - Click the **Manage access** button again, then click on the dropdown next to their name.
-      
-      - Select **Write** to grant them write permissions, which allows them to:
-              - Push commits
-              - Manage issues
-              - Handle pull requests and more
+       For sharing write permissions:
+       - After the collaborator accepts the invitation, you can set their permission level.
+       - Click the **Manage access** button again, then click on the dropdown next to their name.
+       - Select **Write** to grant them write permissions, which allows them to:
+                - Push commits
+                - Manage issues
+                - Handle pull requests and more
 
 **e. What is the difference between git and GitHub?**
 **Git** is the tool that helps you track changes in your code. It’s like a supercharged save system that also keeps track of who made what changes and lets you work on different versions of your project at the same time.
